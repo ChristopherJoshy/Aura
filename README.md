@@ -47,7 +47,7 @@ flowchart LR
 Install frontend dependencies and run Expo:
 
 ```bash
-git clone https://github.com/ChristopherJoshy/aura.git
+git clone https://github.com/ChristopherJoshy/Aura.git
 cd aura/frontend
 npm install
 npm run start
